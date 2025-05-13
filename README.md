@@ -38,3 +38,8 @@ This project uses an **in-memory HashMap** for storing users (no database connec
    ```bash
    git clone https://github.com/mahendergoli/springboot-rest-api.git
    cd springboot-rest-api
+2. Build and run:
+   bash:
+   ./mvnw spring-boot:run
+3. The API will start on:
+   http://localhost:8080
